@@ -1,4 +1,4 @@
-[Docker](https://hub.docker.com/r/aishukander/minecraft-bukkit)連結 (此處只做說明用)  
+(此處只做說明用) 映像檔連結[Docker](https://hub.docker.com/r/aishukander/minecraft-bukkit)  
 1.18.1後改用paper為核心  
 快速啟用最新版在終端機輸入docker run -d -p 25565:25565 aishukander/minecraft-bukkit 接著按下ENTER  
 伺服器ip為宿主機ip或是可以  
