@@ -7,4 +7,3 @@
 絕對位置範例/E/server/1.18.1就是磁碟E內的server資料夾內的1.18.1資料夾
 (完全掛接不限定映像檔版本但需自行下載伺服器檔並同意協定)可將伺服器資料夾掛接到/usr/src/myapp  
 掛接教學: docker run -p 宿主機port:伺服器port -v /絕對位置:/usr/src/myapp aishukander/minecraft-bukkit  
-00000000000000000000000000000000000
