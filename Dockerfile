@@ -1,5 +1,5 @@
 # Server執行的環境
-FROM openjdk:18
+FROM openjdk:17
 
 # Server所需的程式檔與配置，此指令是把server資料夾所有的檔案都複製到Docker Image裡的/usr/src/myapp資料夾
 COPY . /usr/src/myapp
