@@ -1,3 +1,4 @@
+#(此專案已不再受到支援，並且由於是個人的早期作品所以會有各種不完美的地方，因此不建議使用。)
 (此處只做說明用) 映像檔連結[Docker](https://hub.docker.com/r/aishukander/minecraft-bukkit)  
 1.18.1後改用paper為核心  
 快速啟用最新版在終端機輸入docker run -d -p 25565:25565 aishukander/minecraft-bukkit 接著按下ENTER  
